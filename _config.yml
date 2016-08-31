@@ -4,7 +4,7 @@
 baseurl:
 
 # Site live URL
-url: http://127.0.0.1:4000
+url: http://scottblock.com
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -13,7 +13,7 @@ url: http://127.0.0.1:4000
 harmony:
   name: Scott's Simple Site
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Scott Block's blog and featured work.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -27,7 +27,7 @@ harmony:
     url: http://gayanvirajith.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-9950504-1
 
   # Profile links, leave blank to ignore
   social: 
