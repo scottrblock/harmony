@@ -1,26 +1,25 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl:
 
 # Site live URL
-url: http://gayan.me
+url: http://127.0.0.1:4000
 
 # Localhost 
 # url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: Scott's Simple Site
   # Little description about your site
   description: Harmony is free responsive jekyll theme.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/gayanvirajith/harmony
+    Welcome to Scott Block's online home. Here you can find blog posts, past projects,
+    and contact information.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Gayan Virajith
@@ -32,12 +31,9 @@ harmony:
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+    github: scottrblock
+    twitter: inisdetheblock
+    email: scott@scottblock.com
   # Toggle disclaimer in footer
   show_disclaimer: true
 
